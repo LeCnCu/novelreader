@@ -1,0 +1,9 @@
+C:\Users\LeChien\source\repos\webNovelReader\webNovelReader\bin\Debug\webNovelReader.exe.config
+C:\Users\LeChien\source\repos\webNovelReader\webNovelReader\bin\Debug\webNovelReader.exe
+C:\Users\LeChien\source\repos\webNovelReader\webNovelReader\bin\Debug\webNovelReader.pdb
+C:\Users\LeChien\source\repos\webNovelReader\webNovelReader\obj\Debug\webNovelReader.mainForm.resources
+C:\Users\LeChien\source\repos\webNovelReader\webNovelReader\obj\Debug\webNovelReader.Properties.Resources.resources
+C:\Users\LeChien\source\repos\webNovelReader\webNovelReader\obj\Debug\webNovelReader.csproj.GenerateResource.Cache
+C:\Users\LeChien\source\repos\webNovelReader\webNovelReader\obj\Debug\webNovelReader.csproj.CoreCompileInputs.cache
+C:\Users\LeChien\source\repos\webNovelReader\webNovelReader\obj\Debug\webNovelReader.exe
+C:\Users\LeChien\source\repos\webNovelReader\webNovelReader\obj\Debug\webNovelReader.pdb
